@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Learning%20something%20new%20everydays&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<p align="center"> Third-year undergraduate on informatics engineering programs. I love meeting new people, exchanging ideas and spreading knowledge and positivity. I currently learning about ML and how to manage data with some data tools. I have a dream to become a data scientist/analyst.</p>
+<p align="center"> Final-year undergraduate on informatics engineering programs. I love meeting new people, exchanging ideas and spreading knowledge and positivity. I currently learning about ML and how to manage data with some data tools. I have a dream to become a data scientist/analyst.</p>
 <p align="center"> Wish me luck!</p>
 <br>
 
